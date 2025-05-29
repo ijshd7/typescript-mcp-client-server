@@ -1,4 +1,4 @@
-# MCP Weather Client & Server Example
+# MCP Weather Client & Server Example with Typescript
 
 This is a tutorial project demonstrating the use of the [Model Context Protocol (MCP)](https://modelcontextprotocol.io) with Anthropic's Claude models. The app includes a simple CLI-based client and a weather tools server, which communicates via MCP over stdio.
 
